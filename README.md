@@ -15,3 +15,7 @@ notes on the process of getting git repos authorized and pulling from this thing
 https://windows-rt-devices.gitbook.io/windows/tools/tegra-jailbreak-usb
 
 i used this websites tutorial to use one of microsofts golden keys, now this ARM 32 chip is running raspian, a raspberry PI version of linux
+
+https://www.youtube.com/watch?v=4HcYghFEGOE
+
+HUGE THANKS to this youtube video
